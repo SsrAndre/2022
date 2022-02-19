@@ -1,0 +1,23 @@
+* [33mcommit 8491f24d3ddfb8df0ded87bf031a736e136ef41d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+[31m|[m Author: Andre Soares <ssr.andre@gmail.com>
+[31m|[m Date:   Sat Feb 19 16:47:29 2022 -0300
+[31m|[m 
+[31m|[m     Modificados os Arqruivos A.txt, B.txt e C.txt
+[31m|[m 
+* [33mcommit 1d6609649ac2dfe22f9f4981197a10d9de660855[m
+[31m|[m Author: Andre Soares <ssr.andre@gmail.com>
+[31m|[m Date:   Thu Feb 17 16:45:56 2022 -0300
+[31m|[m 
+[31m|[m     a.txt Adicionei a linha Entendendo o HEAD
+[31m|[m 
+* [33mcommit d3bc4af3c06d4a82ad313898ad6729c2ccdcac7f[m
+[31m|[m Author: Andre Soares <ssr.andre@gmail.com>
+[31m|[m Date:   Thu Feb 17 15:51:08 2022 -0300
+[31m|[m 
+[31m|[m     Modificado o arquivo A.txt e criado o arquivo C.txt
+[31m|[m 
+* [33mcommit bdb297711619e15e91328dd6fff047178ad05110[m
+  Author: Andre Soares <ssr.andre@gmail.com>
+  Date:   Wed Jan 26 17:10:21 2022 -0300
+  
+      Criados os arquivos a.txt e b.txt
